@@ -1,0 +1,1717 @@
+﻿/* vermelho #ff0000*/
+/* marrom #9c5f1d*/
+/* beje #dec2a6*/
+/* preto #ffffff*/
+/* cor da pele #ffdead*/
+/* verde #006400*/
+/* verde claro #50C878*/
+/* laranja #FF7F00*/
+/* azul #3299CC*/
+	
+/*azul forte #0000FF*/
+
+
+
+body {
+    background:#ffffff;     /*Cor da página*/
+}
+
+.lic15{
+    position:absolute;
+    top:0px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+}
+
+.l2c10{
+    position:absolute;
+    top:50px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+}
+
+.l2c13{
+    position:absolute;
+    top:50px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l2c20{
+    position:absolute;
+    top:50px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l3c10{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l3c12{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l3c13{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+.l3c15{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l3c16{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l3c20{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:250px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l3c21{
+    position:absolute;
+    top:100px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:250px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l4c9{
+    position:absolute;
+    top:150px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l4c12{
+    position:absolute;
+    top:150px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l4c16{
+    position:absolute;
+    top:150px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+.l4c17{
+    position:absolute;
+    top:150px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l5c13{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l5c14{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+
+.l5c16{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:250px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l5c11{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+
+.l5c10{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l5c9{
+    position:absolute;
+    top:200px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l6c7{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:300px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l6c10{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l6c14{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l6c15{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l6c16{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l6c17{
+    position:absolute;
+    top:250px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l7c8{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l7c9{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l7c11{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l7c12{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l7c13{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l7c14{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l7c15{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l7c17{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l7c22{
+    position:absolute;
+    top:300px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l8c9{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l8c10{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l8c12{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l8c17{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l8c19{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l8c20{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+
+.l8c21{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l8c22{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l8c23{
+    position:absolute;
+    top:350px;              /*Distância do topo*/
+    left:1100px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l9c10{
+    position:absolute;
+    top:400px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:300px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l9c11{
+    position:absolute;
+    top:400px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+
+.l9c13{
+    position:absolute;
+    top:400px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:350px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l9c20{
+    position:absolute;
+    top:400px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+
+.l10c11{
+    position:absolute;
+    top:450px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:350px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l10c18{
+    position:absolute;
+    top:450px;              /*Distância do topo*/
+    left:850px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#9c5f1d;     /*Cor do elemento*/
+   }
+
+.l10c19{
+    position:absolute;
+    top:450px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l11c11{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l11c12{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l11c13{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+.l11c16{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l11c18{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:850px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:250px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l11c19{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+
+.l11c21{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+
+.l11c22{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l11c23{
+    position:absolute;
+    top:500px;              /*Distância do topo*/
+    left:1100px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l11c24{
+    position:absolute;
+    top:450px;              /*Distância do topo*/
+    left:1150px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l12c11{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l12c12{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l12c13{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l12c15{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l12c16{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l12c17{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:200px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l12c18{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ff0000;     /*Cor do elemento*/
+   }
+
+.l12c19{
+    position:absolute;
+    top:550px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l13c11{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l13c13{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l13c15{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l13c16{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:750px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:200px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+.l13c20{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l13c22{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l14c18{
+    position:absolute;
+    top:600px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l14c20{
+    position:absolute;
+    top:650px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l15c11{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l15c12{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l15c15{
+    position:absolute;
+    top:650px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+.l15c19{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l15c20{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l15c21{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l15c22{
+    position:absolute;
+    top:700px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l16c12{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l16c13{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+
+.l16c17{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l16c18{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:850px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l16c19{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l16c20{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l16c24{
+    position:absolute;
+    top:750px;              /*Distância do topo*/
+    left:1150px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l17c9{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:150px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l17c10{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l17c11{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:350px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l17c18{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:850px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l17c19{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:900px;             /*Distância da Esquerda*/
+    width:300px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+
+.l17c25{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:1200px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l17c26{
+    position:absolute;
+    top:800px;              /*Distância do topo*/
+    left:1250px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l18c11{
+    position:absolute;
+    top:850px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l18c13{
+    position:absolute;
+    top:850px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:550px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+
+.l18c24{
+    position:absolute;
+    top:850px;              /*Distância do topo*/
+    left:1150px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l18c27{
+    position:absolute;
+    top:850px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l19c10{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l19c13{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:450px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l19c22{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l19c23{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:1100px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l19c26{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:1250px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l19c28{
+    position:absolute;
+    top:900px;              /*Distância do topo*/
+    left:1350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l20c8{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l20c9{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l20c11{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l20c13{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:400px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l20c21{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l20c23{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:1100px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:300px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l20c26{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:1250px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l20c27{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l20c29{
+    position:absolute;
+    top:950px;              /*Distância do topo*/
+    left:1400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l21c5{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:200px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l21c8{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l21c10{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l21c13{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:200px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l21c14{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l21c15{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l21c17{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:300px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l21c27{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l21c28{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:1350px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l21c30{
+    position:absolute;
+    top:1000px;              /*Distância do topo*/
+    left:1450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l22c4{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:150px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l22c5{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:200px;             /*Distância da Esquerda*/
+    width:200px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+    azul celeste:#3299CC;   */
+   }
+
+
+.l22c9{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l22c14{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:350px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+
+.l22c21{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+
+.l22c26{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:1250px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l22c27{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l22c29{
+    position:absolute;
+    top:1050px;              /*Distância do topo*/
+    left:1400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l23c5{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:200px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+.l23c6{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:250px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l23c7{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+.l23c8{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l23c14{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:400px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#50C878;     /*Cor do elemento*/
+   }
+
+.l23c22{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;     /*Cor do elemento*/
+   }
+
+.l23c27{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#ffdead;     /*Cor do elemento*/
+   }
+
+
+.l23c28{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:1350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l23c29{
+    position:absolute;
+    top:1100px;              /*Distância do topo*/
+    left:1400px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+.l24c5{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:200px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l24c7{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#dec2a6;     /*Cor do elemento*/
+   }
+
+.l24c8{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l24c14{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#FF7F00;     /*Cor do elemento*/
+   }
+
+.l24c17{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:800px;             /*Distância da Esquerda*/
+    width:300px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#FF7F00;     /*Cor do elemento*/
+   }
+
+
+.l24c27{
+    position:absolute;
+    top:1150px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+.l25c6{
+    position:absolute;
+    top:1200px;              /*Distância do topo*/
+    left:250px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+
+.l25c12{
+    position:absolute;
+    top:1200px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;     /*Cor do elemento*/
+   }
+
+ .l25c13{
+    position:absolute;
+    top:1200px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:500px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+
+ .l26c11{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+.l26c12{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:550px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+.l26c14{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#0000FF;
+}
+
+.l26c15{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:700px;             /*Distância da Esquerda*/
+    width:250px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+.l26c20{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#0000FF;
+}
+
+.l26c21{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+.l26c24{
+    position:absolute;
+    top:1250px;              /*Distância do topo*/
+    left:1150px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l27c10{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:450px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:200px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l27c11{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+.l27c13{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:600px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#0000ff;
+}
+
+
+.l27c15{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:650px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:250px;           /*Altura*/
+    background:#000000;
+}
+
+.l27c20{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:950px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+.l27c21{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#0000ff;
+}
+
+.l27c22{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+.l27c24{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:1150px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#0000ff;
+}
+
+.l27c25{
+    position:absolute;
+    top:1300px;              /*Distância do topo*/
+    left:1200px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;
+}
+
+.l28c11{
+    position:absolute;
+    top:1350px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:100px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#0000ff;
+}
+
+
+.l28c21{
+    position:absolute;
+    top:1350px;              /*Distância do topo*/
+    left:1000px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l28c22{
+    position:absolute;
+    top:1350px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#0000ff;
+}
+
+
+.l29c11{
+    position:absolute;
+    top:1400px;              /*Distância do topo*/
+    left:500px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+
+.l29c22{
+    position:absolute;
+    top:1400px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l29c23{
+    position:absolute;
+    top:1400px;              /*Distância do topo*/
+    left:1100px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#3299CC;
+}
+
+
+.l29c26{
+    position:absolute;
+    top:1400px;              /*Distância do topo*/
+    left:1250px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l30c8{
+    position:absolute;
+    top:1450px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:150px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l30c22{
+    position:absolute;
+    top:1450px;              /*Distância do topo*/
+    left:1050px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l31c8{
+    position:absolute;
+    top:1500px;              /*Distância do topo*/
+    left:350px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l31c27{
+    position:absolute;
+    top:1450px;              /*Distância do topo*/
+    left:1300px;             /*Distância da Esquerda*/
+    width:50px;            /*Largura*/
+    height:100px;           /*Altura*/
+    background:#000000;
+}
+
+
+.l32c0{
+    position:absolute;
+    top:1550px;              /*Distância do topo*/
+    left:0px;             /*Distância da Esquerda*/
+    width:1700px;            /*Largura*/
+    height:50px;           /*Altura*/
+    background:#006400;
+}
